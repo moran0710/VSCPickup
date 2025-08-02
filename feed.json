@@ -1,0 +1,175 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "VSCPickup",
+  "home_page_url": "https://vscpickup.top/",
+  "feed_url": "https://vscpickup.top/feed.json",
+  "description": "VSCPickup Official Website",
+  "items": [
+    {
+      "title": "每周推歌#1",
+      "url": "https://vscpickup.top/article/c9u27heu/",
+      "id": "https://vscpickup.top/article/c9u27heu/",
+      "content_html": "",
+      "date_published": "2025-08-02T12:55:45.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "友情链接",
+      "url": "https://vscpickup.top/friends/",
+      "id": "https://vscpickup.top/friends/",
+      "content_html": "",
+      "date_published": "2025-08-01T17:02:25.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": " 其他信息",
+      "url": "https://vscpickup.top/aboutus/other/",
+      "id": "https://vscpickup.top/aboutus/other/",
+      "summary": "开源软件 本项目使用了下列开源软件/程序库，在此表示感谢 VuePress VuePress-theme-plume FastAPI SQLModel nonebot2 lagrangeQQ 其他鸣谢 SocialSisterYi/bilibili-API-collect：非常优秀的Bilibili API参考文档",
+      "content_html": "<h2>开源软件</h2>\n<p>本项目使用了下列开源软件/程序库，在此表示感谢</p>\n<ul>\n<li><a href=\"https://vuepress.vuejs.org/zh/\" target=\"_blank\" rel=\"noopener noreferrer\">VuePress</a></li>\n<li><a href=\"https://theme-plume.vuejs.press/\" target=\"_blank\" rel=\"noopener noreferrer\">VuePress-theme-plume</a></li>\n<li><a href=\"https://fastapi.tiangolo.com/\" target=\"_blank\" rel=\"noopener noreferrer\">FastAPI</a></li>\n<li><a href=\"https://sqlmodel.fastapi.org.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">SQLModel</a></li>\n<li><a href=\"https://nonebot.dev/\" target=\"_blank\" rel=\"noopener noreferrer\">nonebot2</a></li>\n<li><a href=\"https://lagrangedev.github.io/Lagrange.Doc/v1/\" target=\"_blank\" rel=\"noopener noreferrer\">lagrangeQQ</a></li>\n</ul>\n<h2>其他鸣谢</h2>\n<ul>\n<li><a href=\"https://socialsisteryi.github.io/bilibili-API-collect/\" target=\"_blank\" rel=\"noopener noreferrer\">SocialSisterYi/bilibili-API-collect</a>：非常优秀的Bilibili API参考文档</li>\n</ul>\n",
+      "date_published": "2025-08-01T17:02:25.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Vocaloid Of Fighters",
+      "url": "https://vscpickup.top/vof/",
+      "id": "https://vscpickup.top/vof/",
+      "summary": "此项目仍在策划中，敬请期待",
+      "content_html": "<p>此项目仍在策划中，敬请期待</p>\n",
+      "date_published": "2025-08-01T17:02:25.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "往期节目",
+      "url": "https://vscpickup.top/weeklyPickup/previousEpisodes/",
+      "id": "https://vscpickup.top/weeklyPickup/previousEpisodes/",
+      "content_html": "",
+      "date_published": "2025-08-01T17:02:25.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "关于我们",
+      "url": "https://vscpickup.top/aboutus/",
+      "id": "https://vscpickup.top/aboutus/",
+      "summary": "TODO todo",
+      "content_html": "<h2>TODO</h2>\n<p>todo</p>\n",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-08-01T17:32:36.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "每周推歌",
+      "url": "https://vscpickup.top/weeklyPickup/",
+      "id": "https://vscpickup.top/weeklyPickup/",
+      "summary": "TODO todo",
+      "content_html": "<h2>TODO</h2>\n<p>todo</p>\n",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-07-30T14:09:21.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "编辑团队",
+      "url": "https://vscpickup.top/aboutus/group/editor/",
+      "id": "https://vscpickup.top/aboutus/group/editor/",
+      "summary": "编辑团队成员",
+      "content_html": "<h2>编辑团队成员</h2>\n",
+      "image": "https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/hv12/160X160/34c9a1157ea7f17c21f3566b03f8319c.jpg",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "评委团",
+      "url": "https://vscpickup.top/aboutus/group/jury/",
+      "id": "https://vscpickup.top/aboutus/group/jury/",
+      "summary": "评委团成员",
+      "content_html": "<h2>评委团成员</h2>\n",
+      "image": "https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/OFH8/160X151/6f804606809b33065eed6db1a9a54317.png",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "技术支持团队",
+      "url": "https://vscpickup.top/aboutus/group/tech/",
+      "id": "https://vscpickup.top/aboutus/group/tech/",
+      "summary": "技术支持团队包含视频剪辑，美工，程序开发 程序团队成员",
+      "content_html": "<p>技术支持团队包含视频剪辑，美工，程序开发</p>\n<h2>程序团队成员</h2>\n",
+      "image": "https://tc.z.wiki/autoupload/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250623/bWLw/160X160/b_aad7fe6641661bce6a7cea6d42d6d9ae_resized.jpg",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "团队成员",
+      "url": "https://vscpickup.top/aboutus/group/",
+      "id": "https://vscpickup.top/aboutus/group/",
+      "summary": "TODO todo",
+      "content_html": "<h2>TODO</h2>\n<p>todo</p>\n",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-08-02T12:55:45.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "每周推歌·总则",
+      "url": "https://vscpickup.top/weeklyPickup/rule/total/",
+      "id": "https://vscpickup.top/weeklyPickup/rule/total/",
+      "summary": "1.0 目的与范围 本规则旨在规定中文虚拟歌手Pickup周刊团队的每周推歌节目的运行规则 本规则适用于参与每周推歌节目的所有成员 1.1 定义与解释 在本规则中，除非上下文另有要求： 本节目指代中文虚拟歌手Pickup周刊团队的每周推歌节目 我们（或节目策划方,本团队）指代中文虚拟歌手Pickup周刊团队 你（或用户）指代所有非节目策划方的人员 参与...",
+      "content_html": "<h2>1.0 目的与范围</h2>\n<ul>\n<li>本规则旨在规定<strong>中文虚拟歌手Pickup周刊</strong>团队的<strong>每周推歌</strong>节目的运行规则</li>\n<li>本规则适用于参与<strong>每周推歌</strong>节目的所有成员</li>\n</ul>\n<h2>1.1 定义与解释</h2>\n<p>在本规则中，除非上下文另有要求：</p>\n<ul>\n<li><strong>本节目</strong>指代<strong>中文虚拟歌手Pickup周刊</strong>团队的<strong>每周推歌</strong>节目</li>\n<li><strong>我们</strong>（或<strong>节目策划方</strong>,<strong>本团队</strong>）指代<strong>中文虚拟歌手Pickup周刊</strong>团队</li>\n<li><strong>你</strong>（或<strong>用户</strong>）指代所有非节目策划方的人员</li>\n<li><strong>参与本节目</strong>指用户进行了自我推荐，或用户为本团队成员</li>\n<li><strong>自我推荐</strong>是用户自发的向本节目推荐作品的行为</li>\n</ul>\n<p>若上下文没有另行说明，本规则均使用北京时间（UTC+8）</p>\n<h2>1.3 人称解释</h2>\n<p>本规则中：</p>\n<ul>\n<li>使用单数人称（如\"你\"）时包含复数意义；</li>\n<li>使用男性代词时同等适用于所有性别；</li>\n</ul>\n<h2>1.4 规则体系说明</h2>\n<p>1.4.1. 本规则体系包含：</p>\n<ul>\n<li><strong>总则</strong>（当前文档）：基础定义与原则</li>\n<li><strong>分则</strong>：包含本节目的所有运行流程时应当遵从的规则</li>\n</ul>\n<h2>1.5 节目策划方权利</h2>\n<ul>\n<li>我们保留解释及修改本规则的权利</li>\n<li>我们有权随时更改规则，但更改需要在官网进行公布</li>\n<li>我们有权根据违规情节采取拒绝收录，拒绝自我推荐，拒绝访问相关服务等措施</li>\n</ul>\n<h2>1.6 效力与变更</h2>\n<ul>\n<li>本规则自发布之日起生效</li>\n<li>参与本节目则视作同意此运行规则</li>\n</ul>\n",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-07-30T14:09:21.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "每周推歌·收录方式与规则",
+      "url": "https://vscpickup.top/weeklyPickup/rule/operation/",
+      "id": "https://vscpickup.top/weeklyPickup/rule/operation/",
+      "summary": "本分则旨在规范每周推歌节目的运行 2.1 定义 2.1.1 在本分则中，除非上下文另有要求： 收录指本节目成员将相关曲目收录进入本节目的推荐歌单 待投票指将曲目加入本节目的待收录列表，但不一定收录 虚拟歌手指代歌声合成技术相关的音色数据库 翻调指代使用其他虚拟歌手重新制作非本人原创曲目的人声部分 翻填指代对原曲目的歌词进行修改或重新填词，或为原先无人声...",
+      "content_html": "<p>本分则旨在规范每周推歌节目的运行</p>\n<h2>2.1 定义</h2>\n<h3>2.1.1 在本分则中，除非上下文另有要求：</h3>\n<ul>\n<li><strong>收录</strong>指本节目成员将相关曲目收录进入本节目的推荐歌单</li>\n<li><strong>待投票</strong>指将曲目加入本节目的待收录列表，但<strong>不一定</strong>收录</li>\n<li><strong>虚拟歌手</strong>指代歌声合成技术相关的音色数据库</li>\n<li><strong>翻调</strong>指代使用其他虚拟歌手重新制作<strong>非本人原创曲目</strong>的人声部分</li>\n<li><strong>翻填</strong>指代对原曲目的歌词进行修改或重新填词，或为原先无人声的曲目添加歌词</li>\n<li><strong>废弃</strong>指代将曲目移入废弃队列，废弃队列将永久无法进入待投票队列</li>\n</ul>\n<h3>2.1.2 虚拟歌手中文曲定义</h3>\n<ul>\n<li><strong>虚拟歌手中文曲</strong>（或<strong>中文Vocaloid曲目</strong>， <strong>中V曲目</strong>, <strong>中文虚拟歌手曲目</strong>）指代<strong>所有</strong>使用歌声合成技术，以<strong>中文或者中国境内的方言</strong>主导，且虚拟歌手为主要演唱者的曲目（包括但不限于使用Vocaloid技术，Synthesizer V技术，UTAU技术）</li>\n<li><strong>主要演唱者</strong>要求：</li>\n<li>\n<ul>\n<li>\n<ol>\n<li>曲目时长的10%需要有人声演唱</li>\n</ol>\n</li>\n<li>\n<ol start=\"2\">\n<li>虚拟歌手演唱时长必须占有人声部分的50%及以上</li>\n</ol>\n</li>\n<li>\n<ol start=\"3\">\n<li>虚拟歌手人声必须作为歌曲的主导部分</li>\n</ol>\n</li>\n</ul>\n</li>\n<li><strong>中文或者中国境内的方言主导</strong>要求：</li>\n<li>\n<ul>\n<li>\n<ol>\n<li>歌词的中文或者中国境内的方言字数，且应当占歌词总字数的50%及以上</li>\n</ol>\n</li>\n</ul>\n</li>\n</ul>\n<h2>2.2 人员构成</h2>\n<p>2.2.1 所有参与本周推歌的工作人员名单，都应在官网公布</p>\n<h3>2.2.1 评审团 <em>（或评委团）</em></h3>\n<p>2.2.1.1 <strong>评审团</strong>成员有权<strong>将歌曲加入待投票队列</strong>，并决定歌曲是否<strong>收录</strong></p>\n<p>2.2.1.2 <strong>评审团</strong>需要保持奇数个成员</p>\n<p>2.2.1.3 <strong>评审团</strong>对于一首曲目进行一轮投票，采用少数服从多数制</p>\n<ul>\n<li>首轮投票决定是否在本周推荐该曲目，若首轮投票不通过，则该曲目回到待推荐队列，并记作一次投票失败</li>\n</ul>\n<p>2.2.1.4 若<strong>评审团</strong>成员的曲目被<strong>加入待投票队列</strong>，则该成员和任一一位评审团成员需要退出投票</p>\n<p>2.2.1.5 对于被废弃的曲目，<strong>评审团</strong>需要给出废弃原因，并永久归档</p>\n<h3>2.2.2 编辑团队</h3>\n<p>2.2.2.1 <strong>编辑团队</strong>的成员有权<strong>将歌曲加入待投票队列</strong>，且负责歌曲基本信息的初步标注</p>\n<p>2.2.2.2 <strong>编辑团队</strong>的成员负责用户<strong>自我推荐</strong>歌曲的初步审核</p>\n<h3>2.2.3 视频团队</h3>\n<p>2.2.3.1 <strong>视频团队</strong>的成员负责视频相关的美术及视频剪辑</p>\n<h2>2.3 板块设计</h2>\n<p>2.3.1 本节目分为四大板块，按照曲风分类，分别为流行板块，电子板块，摇滚板块，其他板块（板块排名不分先后）</p>\n<p>2.3.2 曲目的板块分类归属<strong>由评审团决定</strong></p>\n<p>2.3.3 原则上每个板块最高收录5首曲目，若本周收录歌曲不足5首的，无需补全</p>\n<p>2.3.4 每周六的0点停止新曲目的收录投票，剩余未审核的待投票曲目将进入下一周的待投票队列</p>\n<p>2.3.5 在新曲目的收录投票截止前6小时（每周五18:00），若某板块的收录名额已满，且其他板块有剩余名额的，可以借用其他板块的剩余名额推荐超过限额的歌曲</p>\n<p>2.3.6 所有收录歌曲的展示时长应控制在20-30秒内</p>\n<p>2.3.7 每首收录歌曲应当展示如下信息：</p>\n<ul>\n<li>视频BV号及AV号</li>\n<li>歌曲的制作人员明细</li>\n<li>歌曲使用的虚拟歌手基本信息，包括引擎和其名称</li>\n<li>歌曲的详细子曲风</li>\n<li>推荐理由</li>\n<li>收录方式（自行推荐/编辑推荐）</li>\n<li>如果是评审团成员入围，则需要告知观众作者为评委团成员</li>\n</ul>\n<p>2.3.8 各板块曲目排名不分先后</p>\n<h2>2.4 收录范围</h2>\n<p>本节目收录遵守以下规则的曲目</p>\n<p>2.4.1 本节目仅收录发布在<a href=\"https://bilibili.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bilibili</a>的曲目</p>\n<p>2.4.2 对于涉嫌违法犯罪的，色情暴力的，涉及敏感话题的曲目不予收录</p>\n<p>2.4.3 由于本节目精力有限，暂时不收录翻调及翻填作品</p>\n<p>2.4.4 收录的曲目必须是中文虚拟歌手曲目</p>\n<p>2.4.5 已经被往期节目收录的曲目，将不会被以后的节目收录</p>\n<p>2.4.6 已经废弃的曲目，将不会被以后的节目收录</p>\n<p>2.4.7 稿件的<a href=\"https://bilibili.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bilibili</a>发布时间在三个月前的作品无法进入待推荐队列</p>\n<p>2.4.8 原则上不收录时长少于90s的曲目，但是如果接近90s且曲目结构完整且足够优秀，可以收录</p>\n<h2>2.5 待推荐队列运行机制</h2>\n<p>2.5.1 待推荐队列采用“先进先出”原则，进入待推荐队列时间靠前的曲目将最先进入投票</p>\n<p>2.5.2 每首曲目进入待推荐队列时，投票失败次数设置为0</p>\n<p>2.5.3 若曲目在评审团投票环节投票不通过，则失败次数增加1，并回到待推荐队列末尾</p>\n<p>2.5.4 若曲目失败次数达到3次（失败次数==3），则曲目被废弃</p>\n<h2>2.6 自行推荐</h2>\n<p>由于编辑无法收集所有曲目，本节目允许用户自我推荐</p>\n<p>2.6.1 自行推荐曲目必须由此曲目的创作团队中的任一人推荐</p>\n<p>2.6.2 自行推荐曲目必须符合收录范围规则</p>\n<p>2.6.3 自行推荐时应当包含如下信息：</p>\n<ul>\n<li>歌曲基本信息（BV号）</li>\n<li>歌曲的制作人员明细</li>\n<li>歌曲使用的虚拟歌手基本信息，包括引擎和其名称</li>\n<li>歌曲的曲风，若允许，需要详细到子曲风</li>\n</ul>\n<p>2.6.4 自行推荐的曲目将交由编辑团队进行初审，由编辑团队任一成员决定是否进入待审核队列</p>\n<p>2.6.5 可以通过官网提供自行推荐渠道，或联系编辑团队的任一成员进行自我推荐</p>\n<h2>2.7 运行流程</h2>\n<p>2.7.1 本节目遵循以下流程运行</p>\n<figure><img src=\"https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250801/Nmbq/612X650/方案C.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>2.7.2 <strong>收录歌单</strong>将主要公布在<a href=\"https://bilibili.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bilibili</a>，并适当的在其他平台进行推广</p>\n",
+      "image": "https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250801/Nmbq/612X650/%E6%96%B9%E6%A1%88C.png",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-08-01T12:38:32.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "每周推歌·周边软件用户协议",
+      "url": "https://vscpickup.top/weeklyPickup/softwareEula/",
+      "id": "https://vscpickup.top/weeklyPickup/softwareEula/",
+      "summary": "本分则为每周推歌节目周边软件的最终用户许可协议（EULA），开始使用本节目的周边软件，则视作同意本用户许可协议 3.1 定义与解释 在本协议中，除非上下文另有要求： 周边设施（或配套设施）包含【名字未定】QQ机器人服务，投稿通道，VSCPickup Open API以及本节目官网 机器人指代【名字未定】QQ机器人服务 VSCPickup Open AP...",
+      "content_html": "<p>本分则为每周推歌节目周边软件的最终用户许可协议（EULA），开始使用本节目的周边软件，则视作同意本用户许可协议</p>\n<h2>3.1 定义与解释</h2>\n<p>在本协议中，除非上下文另有要求：</p>\n<ul>\n<li><strong>周边设施</strong>（或<strong>配套设施</strong>）包含【名字未定】QQ机器人服务，投稿通道，VSCPickup Open API以及本节目官网</li>\n<li><strong>机器人</strong>指代【名字未定】QQ机器人服务</li>\n<li><strong>VSCPickup Open API</strong>为本节目提供的开放API</li>\n<li><strong>你</strong>（或<strong>用户</strong>）指代访问并使用周边设施的个人或团队</li>\n</ul>\n<h2>3.2 允许做的事</h2>\n<p>3.2.1 我们允许你在需要的情况下，适当的使用我们的周边设施</p>\n<p>3.2.2 我们允许将机器人拉入其他QQ群聊</p>\n<p>3.2.3 我们允许使用脚本从官网或VSCPickup Open API获取数据和信息，但<strong>不允许滥用</strong></p>\n<h2>3.3 不允许做的事</h2>\n<p>3.3.2 我们不允许对我们的周边设施进行<strong>压力测试，网络攻击，发送大量请求等滥用行为</strong></p>\n<p>3.3.2 我们不允许<strong>一次性对机器人发送大量请求</strong></p>\n<p>3.3.3 对于VSCPickup Open API获取到的全部数据，应当按照我们的知识共享协议使用</p>\n<p>3.3.4 我们不允许<strong>将我们的周边设施用于商业用途</strong></p>\n<h2>3.4 你需要做的事</h2>\n<p>3.4.1 如果你的服务使用了我们的配套设施，则需要在项目的任意位置注明使用了我们的配套设施，可以选择在README，项目简介或者相关代码的注释</p>\n<h2>3.5 权利与更变</h2>\n<p>3.5.1 我们有权随时更改最终用户许可协定</p>\n<p>3.5.2 我们保留解释本协定的权利</p>\n<p>3.5.3 若发现滥用，我们有权禁止你访问我们的配套设施，包括但不限于封禁IP，拒绝回复等</p>\n<p>3.5.4 本规则自发布之日起生效</p>\n",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-07-30T14:09:21.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "每周推歌运行规则",
+      "url": "https://vscpickup.top/weeklyPickup/rule/",
+      "id": "https://vscpickup.top/weeklyPickup/rule/",
+      "summary": "当前部分是每周推歌栏目的运行规则！ 本栏目遵从以下规则和运行方式运行",
+      "content_html": "<p>当前部分是<mark>每周推歌</mark>栏目的运行规则！</p>\n<p>本栏目遵从以下规则和运行方式运行</p>\n",
+      "date_published": "2025-07-30T14:09:21.000Z",
+      "date_modified": "2025-07-30T14:09:21.000Z",
+      "authors": [],
+      "tags": []
+    }
+  ]
+}
