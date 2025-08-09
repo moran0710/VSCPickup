@@ -1,0 +1,641 @@
+---
+url: /aboutus/index.md
+---
+# 关于我们
+## TODO
+
+todo
+
+---
+
+---
+url: /aboutus/group/index.md
+---
+# 团队成员
+## TODO
+
+todo
+
+---
+
+---
+url: /aboutus/group/editor/index.md
+---
+# 编辑团队
+## 编辑团队成员
+
+:::: card-masonry
+
+::: card title="回转咸鱼"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/hv12/160X160/34c9a1157ea7f17c21f3566b03f8319c.jpg)
+
+一般路过中日术两栖爱好者，听说能安利喜欢的歌所以来了……所以有じん批吗？
+
+* [Bilibili](https://space.bilibili.com/607655197)
+  :::
+
+::: card title="千帆舞"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/VUEq/160X160/b_af25a3bb41e76f05435a246132ab7079.jpg)
+
+术曲爱好者，目前正在创作原创术曲，主偏初音。
+
+* [Bilibili](https://space.bilibili.com/3546569993357820)
+
+:::
+
+::: card title="乌鸦P"
+
+![](https://z.wiki/u/p3uhhj)
+
+本职是P主，无作用的低能主催
+
+* [Bilibili](https://space.bilibili.com/10270064)
+  :::
+
+::: card title="rat\_P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/Wnp0/160X160/b_b86de1c28e0a7c6b535305c6d44e7e28.jpg)
+
+杂食滚人，三无P主
+
+* [Bilibili](https://space.bilibili.com/3546392528161058)
+* [网易云音乐](https://music.163.com/#/artist?id=59948266)
+  :::
+
+::: card title="Psycho\_病患P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/VKqW/160X160/56837556E75CEEBA5EB2D14342AF0723.jpg)
+
+很菜的P主，起到一个作词顾问的作用…不知道啊他们说没有词作顾问就把我拉过来了…
+
+* [Bilibili](https://space.bilibili.com/2013212334)
+
+:::
+
+::: card title="星野蓮Charlie"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/k5QJ/160X160/F8C6FAF0BFC07310E3C12084EB0C9776.jpg)
+
+伯克利音乐学院大三在读，键盘手，sskr是我叠。
+
+* [Bilibili](https://space.bilibili.com/1068465455)
+* [网易云音乐](https://music.163.com/#/artist?id=55137682)
+
+:::
+
+::: card title="moran0710"
+
+![](https://tc.z.wiki/autoupload/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250623/bWLw/160X160/b_aad7fe6641661bce6a7cea6d42d6d9ae_resized.jpg)
+
+"我有一个梦想，让来势汹汹的Trance统治世界..."
+
+* [GitHub](https://github.com/moran0710)
+* [Bilibili](https://space.bilibili.com/504020393)
+
+:::
+
+::: card title="五仔"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/np6z/160X160/b_71c51c2dd63fdc29970eab821a15eae6.jpg)
+
+"术力口最大最恶黑恶势力😎"
+
+* [Bilibili](https://space.bilibili.com/1317468428)
+
+:::
+
+::: card title="足立パイ"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/TOx8/162X160/6B8969777BDFC52C5419131DF13A5C02.jpg)
+
+袁正嫡传弟子，华南挂壁皇帝
+
+:::
+
+::: card title="nonose"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/Wlgl/160X160/658fd4245c7ebacff02457831376c74b.jpg)
+
+你好，我是nonose
+
+* [nonose.co](https://nonose.co)
+
+:::
+
+::: card title="夜明子守歌"
+
+![](https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250802/Muz0/1920X1920/C55427E9CA4A3F390D3F1DB5C9B03115.jpg)
+
+早午晚安，祝你今天一切都好。
+
+* [网易云音乐](https://music.163.com/#/artist?id=97620056)
+* [画加](https://huajia.163.com/main/profile/1rxyoKY8)
+
+:::
+
+::: card title="塑料小猪销售中心"
+
+![](https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250802/MMje/160X160/A9AA38240287FCE46AD7C1A377361177_resized.png)
+
+关系户
+
+* [Bilibili](https://space.bilibili.com/435982573)
+
+:::
+
+---
+
+---
+url: /aboutus/group/jury/index.md
+---
+# 评委团
+## 评委团成员
+
+:::: card-masonry
+
+::: card title="乌鸦P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/OFH8/160X151/6f804606809b33065eed6db1a9a54317.png)
+
+本职是P主，无作用的低能主催
+
+* [Bilibili](https://space.bilibili.com/10270064)
+  :::
+
+::: card title="rat\_P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/Wnp0/160X160/b_b86de1c28e0a7c6b535305c6d44e7e28.jpg)
+
+杂食滚人，三无P主
+
+* [Bilibili](https://space.bilibili.com/3546392528161058)
+* [网易云音乐](https://music.163.com/#/artist?id=59948266)
+  :::
+
+::: card title="Psycho\_病患P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/VKqW/160X160/56837556E75CEEBA5EB2D14342AF0723.jpg)
+
+很菜的P主，起到一个作词顾问的作用…不知道啊他们说没有词作顾问就把我拉过来了…
+
+* [Bilibili](https://space.bilibili.com/2013212334)
+
+:::
+
+::: card title="星野蓮Charlie"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/k5QJ/160X160/F8C6FAF0BFC07310E3C12084EB0C9776.jpg)
+
+伯克利音乐学院大三在读，键盘手，sskr是我叠。
+
+* [Bilibili](https://space.bilibili.com/1068465455)
+* [网易云音乐](https://music.163.com/#/artist?id=55137682)
+
+:::
+
+::: card title="五仔"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/np6z/160X160/b_71c51c2dd63fdc29970eab821a15eae6.jpg)
+
+"术力口最大最恶黑恶势力😎"
+
+* [Bilibili](https://space.bilibili.com/1317468428)
+
+:::
+
+::: card title="足立パイ"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/TOx8/162X160/6B8969777BDFC52C5419131DF13A5C02.jpg)
+
+袁正嫡传弟子，华南挂壁皇帝
+
+:::
+
+::: card title=" nonose"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/siOy/160X160/e8fcf3f51a4b872c8a157753b4645c0f.png)
+
+你好，我是nonose
+
+* [nonose.co](https://nonose.co)
+
+:::
+
+::: card title="塑料小猪销售中心"
+
+![](https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250802/MMje/160X160/A9AA38240287FCE46AD7C1A377361177_resized.png)
+
+关系户
+
+* [Bilibili](https://space.bilibili.com/435982573)
+
+:::
+
+---
+
+---
+url: /aboutus/group/tech/index.md
+---
+# 技术支持团队
+技术支持团队包含视频剪辑，美工，程序开发
+
+## 程序团队成员
+
+:::: card-masonry
+
+::: card title="moran0710"
+
+![](https://tc.z.wiki/autoupload/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250623/bWLw/160X160/b_aad7fe6641661bce6a7cea6d42d6d9ae_resized.jpg)
+
+"在JVM统治世界前我是一句话都不会说的"
+
+* [GitHub](https://github.com/moran0710)
+* [Bilibili](https://space.bilibili.com/504020393)
+
+:::
+
+---
+
+---
+url: /aboutus/other/index.md
+---
+#  其他信息
+## 开源软件
+
+本项目使用了下列开源软件/程序库，在此表示感谢
+
+* [VuePress](https://vuepress.vuejs.org/zh/)
+* [VuePress-theme-plume](https://theme-plume.vuejs.press/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [SQLModel](https://sqlmodel.fastapi.org.cn/)
+* [nonebot2](https://nonebot.dev/)
+* [lagrangeQQ](https://lagrangedev.github.io/Lagrange.Doc/v1/)
+
+## 其他鸣谢
+
+* [SocialSisterYi/bilibili-API-collect](https://socialsisteryi.github.io/bilibili-API-collect/)：非常优秀的Bilibili API参考文档
+
+---
+
+---
+url: /article/template/weeklyUpdate/index.md
+---
+# 每周推歌模板
+## 注释
+
+这是一个每周推歌模板，你可以通过复制此模板来快速的制作每周推歌界面
+
+1. 启动开发服务器：`npm run docs:dev`
+2. 复制此模板，并删除permalink所在的一行
+3. 删掉注释段
+4. 填写下面的内容
+
+## 每周推歌 #<期号>
+
+### 摇滚板块
+
+::: card title="达拉崩吧（作为示例）"
+
+* BVID：[BV1sx411k7ug](https://www.bilibili.com/video/BV1sx411k7ug/)
+* 曲风：House
+* 歌姬：洛天依 V3/言和
+* 制作：ilem
+
+@[bilibili](BV1sx411k7ug)
+
+:::
+
+::: card title="<在此处写上曲名>"
+
+* BVID：[在此处写上BV号](https://B站视频分享链接.bilibili.com/)
+* 曲风：<曲风>
+* 歌姬：<歌姬><引擎>
+* 编曲：<曲作者>
+* 填词：<填词作者>
+* 其他staff....
+
+@[bilibili](在这里写上BV号)
+
+:::
+
+---
+
+---
+url: /vof/index.md
+---
+# ？
+## 这是什么？
+
+是的，我们确实计划策划一个比赛
+
+但是此项目还在计划中，敬请期待
+
+## VOF？
+
+neta自BOF
+
+其实还没定名字，所以先这样
+
+---
+
+---
+url: /weeklyPickup/index.md
+---
+# 每周推歌
+## TODO
+
+todo
+
+---
+
+---
+url: /weeklyPickup/previousEpisodes/index.md
+---
+# 往期节目
+::: slot layout-top
+
+:::
+
+---
+
+---
+url: /weeklyPickup/rule/index.md
+---
+# 每周推歌运行规则
+当前部分是==每周推歌==栏目的运行规则！
+
+本栏目遵从以下规则和运行方式运行
+
+---
+
+---
+url: /weeklyPickup/rule/operation/index.md
+---
+# 每周推歌·收录方式与规则
+本分则旨在规范每周推歌节目的运行
+
+## 2.1 定义 {#2.1}
+
+### 2.1.1 在本分则中，除非上下文另有要求： {#2.1.1}
+
+* **收录**指本节目成员将相关曲目收录进入本节目的推荐歌单
+* **待投票**指将曲目加入本节目的待收录列表，但**不一定**收录
+* **虚拟歌手**指代歌声合成技术相关的音色数据库
+* **翻调**指代使用其他虚拟歌手重新制作**非本人原创曲目**的人声部分
+* **翻填**指代对原曲目的歌词进行修改或重新填词，或为原先无人声的曲目添加歌词
+* **废弃**指代将曲目移入废弃队列，废弃队列将永久无法进入待投票队列
+
+### 2.1.2 虚拟歌手中文曲定义 {#2.1.2}
+
+* **虚拟歌手中文曲**（或**中文Vocaloid曲目**， **中V曲目**, **中文虚拟歌手曲目**）指代**所有**使用歌声合成技术，以**中文或者中国境内的方言**主导，且虚拟歌手为主要演唱者的曲目（包括但不限于使用Vocaloid技术，Synthesizer V技术，UTAU技术）
+* **主要演唱者**要求：
+* * 1. 曲目时长的10%需要有人声演唱
+  * 2. 虚拟歌手演唱时长必须占有人声部分的50%及以上
+  * 3. 虚拟歌手人声必须作为歌曲的主导部分
+* **中文或者中国境内的方言主导**要求：
+* * 1. 歌词的中文或者中国境内的方言字数，且应当占歌词总字数的50%及以上
+
+## 2.2 人员构成 {#2.2}
+
+2.2.1 所有参与本周推歌的工作人员名单，都应在官网公布
+
+### 2.2.2 评审团 *（或评委团）* {#2.2.2}
+
+2.2.2.1 **评审团**成员有权**将歌曲加入待投票队列**，并决定歌曲是否**收录**
+
+2.2.2.2 **评审团**需要保持奇数个成员
+
+2.2.2.3 **评审团**对于一首曲目进行一轮投票，采用少数服从多数制
+
+* 首轮投票决定是否在本周推荐该曲目，若首轮投票不通过，则该曲目回到待推荐队列，并记作一次投票失败
+
+2.2.2.4 若**评审团**成员的曲目被**加入待投票队列**，则该成员和任一一位评审团成员需要退出投票
+
+2.2.2.5 对于被废弃的曲目，**评审团**需要给出废弃原因，并永久归档
+
+### 2.2.3 编辑团队 {#2.2.3}
+
+2.2.3.1 **编辑团队**的成员有权**将歌曲加入待投票队列**，且负责歌曲基本信息的初步标注
+
+2.2.3.2 **编辑团队**的成员负责用户**自我推荐**歌曲的初步审核
+
+### 2.2.4 视频团队 {#2.2.4}
+
+2.2.4.1 **视频团队**的成员负责视频相关的美术及视频剪辑
+
+## 2.3 板块设计 {#2.3}
+
+2.3.1 本节目分为四大板块，按照曲风分类，分别为流行板块，电子板块，摇滚板块，其他板块（板块排名不分先后）
+
+2.3.2 曲目的板块分类归属**由评审团决定**
+
+2.3.3 原则上每个板块最高收录5首曲目，若本周收录歌曲不足5首的，无需补全
+
+2.3.4 每周六的0点停止新曲目的收录投票，剩余未审核的待投票曲目将进入下一周的待投票队列
+
+2.3.5 在新曲目的收录投票截止前6小时（每周五18:00），若某板块的收录名额已满，且其他板块有剩余名额的，可以借用其他板块的剩余名额推荐超过限额的歌曲
+
+2.3.6 所有收录歌曲的展示时长应控制在20-30秒内
+
+2.3.7 每首收录歌曲应当展示如下信息：
+
+* 视频BV号及AV号
+* 歌曲的制作人员明细
+* 歌曲使用的虚拟歌手基本信息，包括引擎和其名称
+* 歌曲的详细子曲风
+* 推荐理由
+* 收录方式（自行推荐/编辑推荐）
+* 如果是评审团成员入围，则需要告知观众作者为评委团成员
+
+2.3.8 各板块曲目排名不分先后
+
+## 2.4 收录范围 {#2.4}
+
+本节目收录遵守以下规则的曲目
+
+2.4.1 本节目仅收录发布在[Bilibili](https://bilibili.com)的曲目
+
+2.4.2 对于涉嫌违法犯罪的，色情暴力的，涉及敏感话题的曲目不予收录
+
+2.4.3 由于本节目精力有限，暂时不收录翻调及翻填作品
+
+2.4.4 收录的曲目必须是中文虚拟歌手曲目
+
+2.4.5 已经被往期节目收录的曲目，将不会被以后的节目收录
+
+2.4.6 已经废弃的曲目，将不会被以后的节目收录
+
+2.4.7 稿件的[Bilibili](https://bilibili.com)发布时间在三个月前的作品无法进入待推荐队列
+
+2.4.8 原则上不收录时长少于90s的曲目，但是如果接近90s且曲目结构完整且足够优秀，可以收录
+
+## 2.5 待推荐队列运行机制 {#2.5}
+
+2.5.1 待推荐队列采用“先进先出”原则，进入待推荐队列时间靠前的曲目将最先进入投票
+
+2.5.2 每首曲目进入待推荐队列时，投票失败次数设置为0
+
+2.5.3 若曲目在评审团投票环节投票不通过，则失败次数增加1，并回到待推荐队列末尾
+
+2.5.4 若曲目失败次数达到3次（失败次数==3），则曲目被废弃
+
+## 2.6 自行推荐 {#2.6}
+
+由于编辑无法收集所有曲目，本节目允许用户自我推荐
+
+2.6.1 自行推荐曲目必须由此曲目的创作团队中的任一人推荐
+
+2.6.2 自行推荐曲目必须符合收录范围规则
+
+2.6.3 自行推荐时应当包含如下信息：
+
+* 歌曲基本信息（BV号）
+* 歌曲的制作人员明细
+* 歌曲使用的虚拟歌手基本信息，包括引擎和其名称
+* 歌曲的曲风，若允许，需要详细到子曲风
+
+2.6.4 自行推荐的曲目将交由编辑团队进行初审，由编辑团队任一成员决定是否进入待审核队列
+
+2.6.5 可以通过官网提供自行推荐渠道，或联系编辑团队的任一成员进行自我推荐
+
+## 2.7 运行流程 {#2.7}
+
+2.7.1 本节目遵循以下流程运行
+
+```mermaid
+---
+title: VSCPiuckUp收录流程
+---
+
+flowchart LR
+
+
+
+    subgraph 曲目数据库
+        OnProcessQueue@{ shape: cyl, label: "待审核队列" }
+    end
+    %% 全局节点
+    subgraph 本期收录结束
+        Refuse([本期不推荐]) ---> Drop
+        Suggest([本期推荐]) ---> Drop
+        Drop([曲目废弃])
+    end
+
+    subgraph 审核团队
+        OnProcessQueue ---> |取出曲目| CheckTimes{失败次数是否大于等于5？}
+        CheckTimes ---> |是| Refuse
+        CheckTimes ---> |否| Vote{评委团进行投票，是否多数同意本期推荐本曲目？}
+            Vote ---> |是| Suggest
+            Vote ---> |否| FailedTimeAddOne[失败次数+1] ---> |本期不推荐，并回到待审核队列末尾| OnProcessQueue
+    end
+
+    subgraph 编辑团队
+        FindNewMusic([发现新曲目])  ---> CheckIsLegal{是否满足收录条件？}
+        CheckIsLegal ---> |是| WriteSuggestMessage[填写曲目信息]
+            %% 曲目信息可收录，进入审核团队工作流程
+            WriteSuggestMessage ---> |加入待审核队列，并记失败次数为0| OnProcessQueue
+        CheckIsLegal ---> |否| Refuse
+    end
+```
+
+2.7.2 **收录歌单**将主要公布在[Bilibili](https://bilibili.com)，并适当的在其他平台进行推广
+
+---
+
+---
+url: /weeklyPickup/rule/total/index.md
+---
+# 每周推歌·总则
+## 1.1 目的与范围 {#1.1}
+
+* 本规则旨在规定**中文虚拟歌手Pickup周刊**团队的**每周推歌**节目的运行规则
+* 本规则适用于参与**每周推歌**节目的所有成员
+
+## 1.2 定义与解释 {#1.2}
+
+在本规则中，除非上下文另有要求：
+
+* **本节目**指代**中文虚拟歌手Pickup周刊**团队的**每周推歌**节目
+* **我们**（或**节目策划方**,**本团队**）指代**中文虚拟歌手Pickup周刊**团队
+* **你**（或**用户**）指代所有非节目策划方的人员
+* **参与本节目**指用户进行了自我推荐，或用户为本团队成员
+* **自我推荐**是用户自发的向本节目推荐作品的行为
+
+若上下文没有另行说明，本规则均使用北京时间（UTC+8）
+
+## 1.3 人称解释 {#1.3}
+
+本规则中：
+
+* 使用单数人称（如"你"）时包含复数意义；
+* 使用男性代词时同等适用于所有性别；
+
+## 1.4 规则体系说明 {#1.4}
+
+1.4.1. 本规则体系包含：
+
+* **总则**（当前文档）：基础定义与原则
+* **分则**：包含本节目的所有运行流程时应当遵从的规则
+
+## 1.5 节目策划方权利 {#1.5}
+
+* 我们保留解释及修改本规则的权利
+* 我们有权随时更改规则，但更改需要在官网进行公布
+* 我们有权根据违规情节采取拒绝收录，拒绝自我推荐，拒绝访问相关服务等措施
+
+## 1.6 效力与变更 {#1.6}
+
+* 本规则自发布之日起生效
+* 参与本节目则视作同意此运行规则
+
+---
+
+---
+url: /weeklyPickup/softwareEula/index.md
+---
+# 每周推歌·周边软件用户协议
+本分则为每周推歌节目周边软件的最终用户许可协议（EULA），开始使用本节目的周边软件，则视作同意本用户许可协议
+
+## 3.1 定义与解释 {#3.1}
+
+在本协议中，除非上下文另有要求：
+
+* **周边设施**（或**配套设施**）包含【名字未定】QQ机器人服务，投稿通道，VSCPickup Open API以及本节目官网
+* **机器人**指代【名字未定】QQ机器人服务
+* **VSCPickup Open API**为本节目提供的开放API
+* **你**（或**用户**）指代访问并使用周边设施的个人或团队
+* **滥用**指代在短时间内大量请求VSCPickupAPI，对VSCPickup进行任何方式的网络攻击等不当行为
+
+## 3.2 允许做的事 {#3.2}
+
+3.2.1 我们允许你在需要的情况下，适当的使用我们的周边设施
+
+3.2.2 我们允许将机器人拉入其他QQ群聊
+
+3.2.3 我们允许使用脚本从官网或VSCPickup Open API获取数据和信息，但**不允许滥用**
+
+## 3.3 不允许做的事 {#3.3}
+
+3.3.2 我们不允许对我们的周边设施进行**压力测试，网络攻击，发送大量请求等滥用行为**
+
+3.3.2 我们不允许**一次性对机器人发送大量请求**
+
+3.3.3 对于VSCPickup Open API获取到的全部数据，应当按照我们的知识共享协议使用
+
+3.3.4 我们不允许**将我们的周边设施用于商业用途**
+
+## 3.4 你需要做的事 {#3.4}
+
+3.4.1 如果你的服务使用了我们的配套设施，则需要在项目的任意位置注明使用了我们的配套设施，可以选择在README，项目简介或者相关代码的注释
+
+## 3.5 权利与更变 {#3.5}
+
+3.5.1 我们有权随时更改最终用户许可协定
+
+3.5.2 我们保留解释本协定的权利
+
+3.5.3 在必要情况下（包括但不限于：你的行为对我们的配套设施运行造成困扰等行为），我们有权随时禁止你访问我们的配套设施且无需给出任何理由，包括但不限于封禁IP，拒绝回复等
+
+3.5.4 本规则自发布之日起生效

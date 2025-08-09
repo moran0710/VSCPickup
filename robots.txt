@@ -1,0 +1,2 @@
+# Algolia-Crawler-Verif: 60164B607D889AD6
+Sitemap: https://vscpickup.top/sitemap.xml
