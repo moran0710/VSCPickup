@@ -1,0 +1,1240 @@
+---
+url: /aboutus/index.md
+---
+# 关于我们
+## TODO
+
+todo
+
+---
+
+---
+url: /aboutus/group/index.md
+---
+# 团队成员
+## TODO
+
+todo
+
+---
+
+---
+url: /aboutus/group/editor/index.md
+---
+# 编辑团队
+## 编辑团队成员
+
+:::: card-masonry
+
+::: card title="回转咸鱼"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/hv12/160X160/34c9a1157ea7f17c21f3566b03f8319c.jpg)
+
+一般路过中日术两栖爱好者，听说能安利喜欢的歌所以来了……所以有じん批吗？
+
+* [Bilibili](https://space.bilibili.com/607655197)
+  :::
+
+::: card title="千帆舞"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/VUEq/160X160/b_af25a3bb41e76f05435a246132ab7079.jpg)
+
+术曲爱好者，目前正在创作原创术曲，主偏初音。
+
+* [Bilibili](https://space.bilibili.com/3546569993357820)
+
+:::
+
+::: card title="乌鸦P"
+
+![](https://z.wiki/u/p3uhhj)
+
+本职是P主，无作用的低能主催
+
+* [Bilibili](https://space.bilibili.com/10270064)
+  :::
+
+::: card title="rat\_P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/Wnp0/160X160/b_b86de1c28e0a7c6b535305c6d44e7e28.jpg)
+
+杂食滚人，三无P主
+
+* [Bilibili](https://space.bilibili.com/3546392528161058)
+* [网易云音乐](https://music.163.com/#/artist?id=59948266)
+  :::
+
+::: card title="Psycho\_病患P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/VKqW/160X160/56837556E75CEEBA5EB2D14342AF0723.jpg)
+
+很菜的P主，起到一个作词顾问的作用…不知道啊他们说没有词作顾问就把我拉过来了…
+
+* [Bilibili](https://space.bilibili.com/2013212334)
+
+:::
+
+::: card title="星野蓮Charlie"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/k5QJ/160X160/F8C6FAF0BFC07310E3C12084EB0C9776.jpg)
+
+伯克利音乐学院大三在读，键盘手，sskr是我叠。
+
+* [Bilibili](https://space.bilibili.com/1068465455)
+* [网易云音乐](https://music.163.com/#/artist?id=55137682)
+
+:::
+
+::: card title="moran0710"
+
+![](https://tc.z.wiki/autoupload/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250623/bWLw/160X160/b_aad7fe6641661bce6a7cea6d42d6d9ae_resized.jpg)
+
+"我有一个梦想，让来势汹汹的Trance统治世界..."
+
+* [GitHub](https://github.com/moran0710)
+* [Bilibili](https://space.bilibili.com/504020393)
+
+:::
+
+::: card title="五仔"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/np6z/160X160/b_71c51c2dd63fdc29970eab821a15eae6.jpg)
+
+"术力口最大最恶黑恶势力😎"
+
+* [Bilibili](https://space.bilibili.com/1317468428)
+
+:::
+
+::: card title="足立パイ"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/TOx8/162X160/6B8969777BDFC52C5419131DF13A5C02.jpg)
+
+袁正嫡传弟子，华南挂壁皇帝
+
+:::
+
+::: card title="nonose"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/Wlgl/160X160/658fd4245c7ebacff02457831376c74b.jpg)
+
+你好，我是nonose
+
+* [nonose.co](https://nonose.co)
+
+:::
+
+::: card title="夜明子守歌"
+
+![](https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250802/Muz0/1920X1920/C55427E9CA4A3F390D3F1DB5C9B03115.jpg)
+
+早午晚安，祝你今天一切都好。
+
+* [网易云音乐](https://music.163.com/#/artist?id=97620056)
+* [画加](https://huajia.163.com/main/profile/1rxyoKY8)
+
+:::
+
+::: card title="塑料小猪销售中心"
+
+![](https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250802/MMje/160X160/A9AA38240287FCE46AD7C1A377361177_resized.png)
+
+关系户
+
+* [Bilibili](https://space.bilibili.com/435982573)
+
+:::
+
+::: card title="北极星"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250816/Y38D/160X160/8C8570B6DEDC2BF9EED79DBC0CECEC0C.jpg/webp)
+
+擅长AE、PR、PS；擅长制作电子音乐
+
+* [Bilibili](https://space.bilibili.com/3546914618346106)
+
+:::
+
+---
+
+---
+url: /aboutus/group/jury/index.md
+---
+# 评委团
+## 评委团成员
+
+:::: card-masonry
+
+::: card title="乌鸦P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/OFH8/160X151/6f804606809b33065eed6db1a9a54317.png)
+
+本职是P主，无作用的低能主催
+
+* [Bilibili](https://space.bilibili.com/10270064)
+  :::
+
+::: card title="rat\_P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/Wnp0/160X160/b_b86de1c28e0a7c6b535305c6d44e7e28.jpg)
+
+杂食滚人，三无P主
+
+* [Bilibili](https://space.bilibili.com/3546392528161058)
+* [网易云音乐](https://music.163.com/#/artist?id=59948266)
+  :::
+
+::: card title="Psycho\_病患P"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/VKqW/160X160/56837556E75CEEBA5EB2D14342AF0723.jpg)
+
+很菜的P主，起到一个作词顾问的作用…不知道啊他们说没有词作顾问就把我拉过来了…
+
+* [Bilibili](https://space.bilibili.com/2013212334)
+
+:::
+
+::: card title="星野蓮Charlie"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/k5QJ/160X160/F8C6FAF0BFC07310E3C12084EB0C9776.jpg)
+
+伯克利音乐学院大三在读，键盘手，sskr是我叠。
+
+* [Bilibili](https://space.bilibili.com/1068465455)
+* [网易云音乐](https://music.163.com/#/artist?id=55137682)
+
+:::
+
+::: card title="五仔"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/np6z/160X160/b_71c51c2dd63fdc29970eab821a15eae6.jpg)
+
+"术力口最大最恶黑恶势力😎"
+
+* [Bilibili](https://space.bilibili.com/1317468428)
+
+:::
+
+::: card title="足立パイ"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/TOx8/162X160/6B8969777BDFC52C5419131DF13A5C02.jpg)
+
+袁正嫡传弟子，华南挂壁皇帝
+
+:::
+
+::: card title=" nonose"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250802/siOy/160X160/e8fcf3f51a4b872c8a157753b4645c0f.png)
+
+你好，我是nonose
+
+* [nonose.co](https://nonose.co)
+
+:::
+
+::: card title="塑料小猪销售中心"
+
+![](https://tc.z.wiki/autoupload/f/N6w5An4Q4IgCuKaF1RpxqmeYRDBYR3U-h-hdsEbXNmOyl5f0KlZfm6UsKj-HyTuv/20250802/MMje/160X160/A9AA38240287FCE46AD7C1A377361177_resized.png)
+
+关系户
+
+* [Bilibili](https://space.bilibili.com/435982573)
+
+:::
+
+---
+
+---
+url: /aboutus/group/tech/index.md
+---
+# 技术支持团队
+技术支持团队包含视频剪辑，美工，程序开发
+
+## 程序团队成员
+
+:::: card-masonry
+
+::: card title="moran0710"
+
+![](https://tc.z.wiki/autoupload/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250623/bWLw/160X160/b_aad7fe6641661bce6a7cea6d42d6d9ae_resized.jpg)
+
+"在JVM统治世界前我是一句话都不会说的"
+
+* [GitHub](https://github.com/moran0710)
+* [Bilibili](https://space.bilibili.com/504020393)
+
+:::
+
+## 视频团队成员
+
+::: card title="北极星"
+
+![](https://tc.z.wiki/autoupload/f/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20250816/Y38D/160X160/8C8570B6DEDC2BF9EED79DBC0CECEC0C.jpg/webp)
+
+擅长AE、PR、PS；擅长制作电子音乐
+
+* [Bilibili](https://space.bilibili.com/3546914618346106)
+
+:::
+
+---
+
+---
+url: /aboutus/other/index.md
+---
+#  其他信息
+## 联系我们
+
+:::: card-grid
+::: card title="Bilibili" icon="https://www.svgrepo.com/show/345504/bilibili.svg"
+
+点击查看我们的Bilibili主页
+:::
+
+::: card title="QQ交流群" icon="https://www.svgrepo.com/show/332498/qq.svg"
+
+群号：761957907，你也可以点击这里一键加入
+:::
+
+::::
+
+## 开源软件
+
+本项目使用了下列开源软件/程序库，在此表示感谢
+
+* [VuePress](https://vuepress.vuejs.org/zh/)
+* [VuePress-theme-plume](https://theme-plume.vuejs.press/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [SQLModel](https://sqlmodel.fastapi.org.cn/)
+* [nonebot2](https://nonebot.dev/)
+* [lagrangeQQ](https://lagrangedev.github.io/Lagrange.Doc/v1/)
+
+## 其他鸣谢
+
+* [SocialSisterYi/bilibili-API-collect](https://socialsisteryi.github.io/bilibili-API-collect/)：非常优秀的Bilibili API参考文档
+
+---
+
+---
+url: /article/c9u27heu/index.md
+---
+# 每周推歌#1
+> 本期视频版：[BV1rgejzJEeT](https://www.bilibili.com/video/BV1rgejzJEeT/)
+>
+> 网页的曲目信息可能存在纰漏，若出现错误，请[点击此处加入QQ交流群](https://qun.qq.com/universal-share/share?ac=1\&authKey=tOjD/lt9Hy74A%2BXUlip9xcN/a8HqMaFoy3Hwh5AoF/vLGUAGr8UJUbdu0xpHoGlZ\&busi_data=eyJncm91cENvZGUiOiIxMDUxMzk5MDM1IiwidG9rZW4iOiJvWkhNamlTeExtRFQ5WEgxZithZjA3VVZPa0FpSUdZRjJPNGZOSndOdURkS01JaWZaZlYyZUtSVnBJeUdrVEJ0IiwidWluIjoiMzU3NTMzMTA1NSJ9\&data=kOJV6u16ABt-CQBjW8cnhjmHiysAqIkEDbgFAI-tqSwnrJFqDVmDZCNPf984NOlZrq9UWCvEuLPINBNAFwH68xLz17ye08PWGwdy3aPF0xA\&svctype=5\&tempid=h5_group_info)，
+> 向群内反馈
+>
+> 另：我们现在缺少维护官网信息的志愿者。如果你熟悉[VuePress](https://vuepress.vuejs.org/zh/)，[Markdown语法](https://markdown.com.cn/basic-syntax/)，[Git](https://git-scm.com/book/zh/v2)以及[Github](https://Github.com)，且有意向帮助我们，欢迎加入我们的技术支持团队，请在交流群联系我们
+
+:::details 本期视频版
+
+@[bilibili](BV1rgejzJEeT)
+
+:::
+
+:::details 目录
+
+\[\[TOC]]
+
+:::
+
+## 电子
+
+### 失窃
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1YQ8izEE8i](https://www.bilibili.com/video/BV1YQ8izEE8i/)
+* 推荐理由：
+
+> 跳动变换的鼓组在熟悉的dnb等风格中更迭，非常有趣。
+>
+> —— By 寒火
+
+* 子曲风：Drum and Bass
+* 歌姬：洛天依
+
+#### Staff表
+
+* 曲绘：Pinot Noir
+* 策划/制作/编曲/作曲/作词：isxn
+* PV：阿愚
+* 分轨混音：AT- HVC（@PhyscoRabbit音乐社团 ）
+* VC混音：蓝欣
+* 企划：我们眼中的世界vol.3
+* 出品：Z世代\_Project
+
+::: details 视频预览
+
+@[bilibili](BV1YQ8izEE8i)
+
+:::
+
+### 错位
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV18z8tzsEys](https://www.bilibili.com/video/BV18z8tzsEys/)
+* 歌姬：星尘
+* 推荐理由：
+
+> 以旋律（作曲）之灵气取胜的音乐，百里挑一，且听且珍惜吧！情绪层层递进，平静而不平淡，尤其在歌曲后半渐入佳境；副歌跃动起伏，却能控制在空茫辽远的整体气质中；星尘空灵的vocal与伴奏圆融黏合；时不时有些可口的音色，耐听耐品；歌词有韵味且不晦涩，与旋律配合很好；pv简洁大方，轻灵跃动，意识流画面妆点了电波气质。从乐曲到pv，都有种游刃有余的轻松与灵气，这种对音乐的掌控力，不知又是哪位从业者来中术炸鱼？
+
+#### Staff表
+
+* 全部制作：音心 石
+
+::: details 视频预览
+
+@[bilibili](BV18z8tzsEys)
+
+:::
+
+### Sudo reboot
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV19AhMz3EB1](https://www.bilibili.com/video/BV19AhMz3EB1/)
+* 歌姬：诗岸
+* 推荐理由：
+
+> 末尾的切片搭配视觉归于键盘声，是点睛之笔。
+
+* 子曲风：Drum and Bass
+
+#### Staff表
+
+* 编曲/作曲/作词/调校：神经罐头
+* 混音/母带：SN\_k
+* 绘制：方孔鱼
+* 视频：Sakuya
+
+::: details 视频预览
+
+@[bilibili](BV19AhMz3EB1)
+
+:::
+
+### 无畏
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV19AhMz3EB1](https://www.bilibili.com/video/BV1wkhAzgE1r/)
+* 歌姬：洛天依
+* 推荐理由：
+
+> 人声尾音一点点晕开，绵长又清远。
+
+#### Staff表
+
+* 制作人：IRiS七叶
+* 作词 ：IRiS七叶&细冰
+* 古幻语设计：IRiS七叶
+* 作曲：IRiS七叶
+* 编曲：赖暐哲（中国台湾）
+* 演唱：洛天依/IRiS七叶
+* 调教：狼
+* 曲绘：傲娇
+* 和声编唱：ARMY CooKie
+* 音频编辑：辰琦
+* 混音/母带工程师：啊鲤
+* 视频剪辑：慕雪琉
+* 提字：顾与淮
+
+::: details 视频预览
+
+@[bilibili](BV19AhMz3EB1)
+
+:::
+
+### 引力失效
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1Xigbz2E2B](https://www.bilibili.com/video/BV1Xigbz2E2B/)
+* 歌姬：洛天依
+* 推荐理由：
+
+> 律动元素多但是不杂乱；非常轻盈的感觉
+>
+> —— By 00parts
+> 很优秀的电子乐，混音效果不错，节奏感很强。视觉设计不错，有很多小巧思和彩蛋。
+>
+> —— By 北极星
+
+* 子曲风：Future Bass
+
+#### Staff表
+
+* 策划/作词：烬宙
+* 作曲/编曲：Kaleskydot
+* 调教/混音：IronQ
+* 曲绘/动画：烬宙 粟susea 星子
+* 剪辑：烬宙 粟susea
+
+::: details 视频预览
+
+@[bilibili](BV19AhMz3EB1)
+
+:::
+
+## 流行
+
+### One self
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1ps8oztEDW](https://www.bilibili.com/video/BV1ps8oztEDW/)
+* 歌姬：洛天依
+* 推荐理由：
+
+> 爵味拉满，作编曲都很好听也很成熟，吉他Solo略带Fusion风，律动爽。
+>
+> —— By Karasu
+> 你就是中文术力口界的西岛尊大！
+>
+> —— By 五仔
+
+#### Staff表
+
+* 作曲：nitze
+* 作词：苏栗无
+* 曲绘：匙穆
+* pv：萧家暮雨
+* 调校：磷元素P
+* 策划：半只金蓝
+
+::: details 视频预览
+
+@[bilibili](BV1ps8oztEDW)
+
+:::
+
+### 旋转
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1XmMRz7EaG](https://www.bilibili.com/video/BV1XmMRz7EaG/)
+* 歌姬：洛天依
+* 推荐理由：
+
+> 成熟但不失气质的编排，每一个音符都浪漫到极点，让某人轻轻啜泣。
+>
+> —— By 塑料小猪
+> 编排上是非常舒服的一部作品，情感借助乐器与人声很好的表达了出来。如同夜深人静之时无由来涌上来的对未来的迷茫和未知的一丝悲观感受，很能打动人心。可能对于夜晚和未知的未来，这首歌是很好的陪伴吧。很惊艳的一部作品。
+>
+> —— By 千帆舞
+
+#### Staff表
+
+* UP主：雨天决行\_\_
+* 调教：血焰玖蝶
+* 曲绘：Miz团一
+* 视频制作：面包烤过才好吃
+* 演奏：不会是狗吧^\[原文如此]^
+
+::: details 视频预览
+
+@[bilibili](BV1XmMRz7EaG)
+
+:::
+
+### 十七度漫游指南
+
+::: card
+
+#### 基本信息
+
+* BVID：<视频失效，待补充>
+* 推荐理由：
+
+> 很标准的一首原声乐器Jpop，作曲和编曲都很好听的，Funk吉他让人有点小泪目。
+>
+> —— By Karasu
+
+#### Staff表
+
+* 全部制作：rat\_P
+
+::: details 视频预览
+
+视频失效，待补充
+
+:::
+
+### 深海结晶少女
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1KvNJzfEwy](https://www.bilibili.com/video/BV1KvNJzfEwy/)
+* 歌姬：洛天依
+* 推荐理由：
+
+> 和声进行很好听，钢琴编配以及Solo都很值得称道，律动感和氛围感都很强，十分成熟。
+>
+> —— By Karasu
+
+#### Staff表
+
+* 音乐：辻原一郎
+* 曲绘/视觉：tototo
+* 调教：某只泽
+
+::: details 视频预览
+
+@[bilibili](BV1KvNJzfEwy)
+
+:::
+
+### 梦境来电（Midnight Whisper）
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV116bKznERC](https://www.bilibili.com/video/BV116bKznERC/)
+* 歌姬：星尘
+* 推荐理由：
+
+> Slap贝斯贯穿全曲，配器并不复杂但却营造了十足的氛围感，律动感也很强，不会让人感到厌倦。
+>
+> —— By Karasu
+
+#### Staff表
+
+* 全部制作：ValeraJustCreate
+
+::: details 视频预览
+
+@[bilibili](BV116bKznERC)
+
+:::
+
+## 另类
+
+### Episode2 饵.
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV116bKznERC](https://www.bilibili.com/video/BV116bKznERC/)
+* 歌姬：星尘Infinity
+* 推荐理由：
+
+> 看似狂放的和声狂飙在细腻克制的冠音中被牵住，搭配温暖的配器形成了舒适的氛围。
+>
+> —— By 寒火
+
+#### Staff表
+
+* 作编曲/器乐/调教/PV：FL947
+* 作词：s62
+* 混音：树树
+
+::: details 视频预览
+
+@[bilibili](BV116bKznERC)
+
+:::
+
+### 连环偏执狂
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1uqbMzwEZ7](https://www.bilibili.com/video/BV1uqbMzwEZ7/)
+* 歌姬：宫舞茉歌 AI 2
+* 推荐理由：
+
+> 充满张力的人声一步步将歌曲走向从循规蹈矩引到杂乱无序的空间之中，名字很好的表现了歌曲带给人的听感，偏执的人声使得钢琴的附着不会显得那么单调，很有想法的一首曲子。
+>
+> —— By 千帆舞
+> 只用一轨钢琴、一轨Vocal就把张力拉满的曲子，作曲也很好听，很有想法。
+>
+> —— By Karasu
+
+#### Staff表
+
+* 全部制作：深浅\_p
+
+::: details 视频预览
+
+@[bilibili](BV1uqbMzwEZ7)
+
+:::
+
+### Bleu
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1BdbKzgE5d](https://www.bilibili.com/video/BV1BdbKzgE5d/)
+* 歌姬：Nakuru
+* 推荐理由：
+
+> 人声到管乐的过渡就像一个最完美的电影分镜，把思绪一下拉远。
+>
+> —— By 寒火
+> 富有跳跃感的编排和人声使得歌曲的色彩异常丰富，像一幅充斥着各种颜色的蓝色主色调画，带给人以强烈的活泼和冲击力，后续的管乐很好的接续了人声的作用，又发挥出管乐独特的悠扬感，歌曲尽显活跃，听感十分多样。很强的一次体验。
+>
+> —— By 千帆舞
+
+#### Staff表
+
+* 插画：燴面供應
+* 歌曲：s62
+
+::: details 视频预览
+
+@[bilibili](BV1BdbKzgE5d)
+
+:::
+
+### 织体涌流
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1sVt4ziEeS](https://www.bilibili.com/video/BV1sVt4ziEeS/)
+* 歌姬：海伊
+* 推荐理由：
+
+> 都说爵士没有市场，但我觉得这一首可以除外，它的作曲和氛围情绪都可以让大众欣赏到其独到之处，歌曲在5、6拍、swing节奏型之间切换，律动感十足。
+>
+> —— By Karasu
+> 有幸观摩到混音母带的过程，这首曲子不该有本刊评价，十六夜的音乐会让帮他做母带的人因为对不齐小节线而苦恼良久
+>
+> —— By 五仔
+
+#### Staff表
+
+* 作编曲\调教\器乐\PV：TN163
+* 作词：附点八分游鹤
+* 曲绘：墨心Nagant
+* 混音：怀归\_
+
+::: details 视频预览
+
+@[bilibili](BV1sVt4ziEeS)
+
+:::
+
+### 量产型天才
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1F48RzEEqV](https://www.bilibili.com/video/BV1F48RzEEqV/)
+* 歌姬：星尘
+* 推荐理由：
+
+> 很爽很有律动感的一首说唱，钢琴从编配到音色都十分有荒诞的氛围感。
+>
+> —— By Karasu
+
+#### Staff表
+
+* 全部制作：小刀P
+  ::: details 视频预览
+
+@[bilibili](BV1F48RzEEqV)
+
+:::
+
+## 摇滚
+
+### 只是幻觉
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1JQMJzZEvV](https://www.bilibili.com/video/BV1JQMJzZEvV/)
+* 歌姬：星尘infinity
+* 推荐理由：
+
+> 前部分的旋律让人沉醉在一种如梦似幻的感受之中，吉他的加入又使得整首歌曲有了一个重心，不再漫无目的。借助人声将微小的情感注入到歌曲之中，微小的声音无法表现出强烈的情感，那就靠旋律填补。非常惊艳的一部作品，感谢能有这样一首歌。
+>
+> —— By 千帆舞
+> 很棒的重型盯鞋，非常喜欢厚重的音墙与质感
+>
+> —— By 00parts
+
+#### Staff表
+
+* 全部制作：伤口p
+
+::: details 视频预览
+
+@[bilibili](BV1JQMJzZEvV)
+
+:::
+
+### 只忆之茧
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1prhxzuE4K](https://www.bilibili.com/video/BV1prhxzuE4K/)
+* 歌姬：星尘infinity
+* 推荐理由：
+
+> 十分成熟的核，吉他、弦乐、鼓组的编配都非常好听，Solo的扫拨和作曲也是点睛之笔。
+>
+> —— By Karasu
+
+#### Staff表
+
+* 曲：Rmjesty
+* 词：纪远
+* 调：海格P
+* 混：DJ鱼谷
+* 绘：Croma
+* 影：半只金蓝
+* 策：半只金蓝 & 萧家暮雨 & InkFea墨墨羽
+
+::: details 视频预览
+
+@[bilibili](BV1prhxzuE4K)
+
+:::
+
+### 霡霂
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1zxu1zvEBg](https://www.bilibili.com/video/BV1zxu1zvEBg/)
+* 歌姬：洛天依
+* 推荐理由：
+
+> 粗糙的质感反而有助于意境的塑造，穿透力十足的音墙一下就将我拉回了晚春时节
+>
+> —— By 00parts
+
+#### Staff表
+
+* 全部制作：子燮
+
+::: details 视频预览
+
+@[bilibili](BV1zxu1zvEBg)
+
+:::
+
+### 阳台的母牛
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1jYgJzZERz](https://www.bilibili.com/video/BV1jYgJzZERz/)
+* 歌姬：诗岸
+* 推荐理由：
+
+> 主歌吉他从音色到律动都很好听，Solo是点睛之笔，作者吉他技术很扎实，很有想法的另类摇滚。
+>
+> —— By Karasu
+> 情绪张力非常足，鼓组上的失真很恰当
+>
+> —— By 00parts
+
+#### Staff表
+
+* 全部制作：究极老麻薯
+
+::: details 视频预览
+
+@[bilibili](BV1jYgJzZERz)
+
+:::
+
+### S.S.O.K
+
+::: card
+
+#### 基本信息
+
+* BVID：[BV1tfu7zuEEz](https://www.bilibili.com/video/BV1tfu7zuEEz/)
+* 歌姬：星尘INFINITY
+* 推荐理由：
+
+> 充满故事感的前奏，上来就用炽烈的感慨与你撞了满怀，却又归于克制，将不知如何言说的思考隐藏于冷峻的笔墨间。质地嘶哑的吉他音色，将尘封的异国导演往事娓娓道来。乐曲有些凄哀，却并未囚困于抱怨，乐观精神与人文关怀始终是它的底色，“讲故事的人主宰世界”，一首有力量的摇滚，与诸位创作者同僚共勉。
+>
+> —— By 回转咸鱼
+> 律动感味真族，很喜欢主歌的Funk吉他，十二品的自然泛音穿插很棒，作曲很好听，长Solo也很加分。
+>
+> —— By Karasu
+
+#### Staff表
+
+* 音乐：TOPKINGCREAM
+* 混音：TKCaseinStudio
+* 曲绘：墨心Nagant
+
+::: details 视频预览
+
+@[bilibili](BV1tfu7zuEEz)
+
+:::
+
+---
+
+---
+url: /vof/index.md
+---
+# ？
+## 这是什么？
+
+是的，我们确实计划策划一个比赛
+
+但是此项目还在计划中，敬请期待
+
+## VOF？
+
+neta自BOF
+
+其实还没定名字，所以先这样
+
+---
+
+---
+url: /weeklyPickup/index.md
+---
+# 每周推歌
+## TODO
+
+todo
+
+---
+
+---
+url: /weeklyPickup/previousEpisodes/index.md
+---
+# 往期节目
+::: slot layout-top
+
+:::
+
+---
+
+---
+url: /weeklyPickup/rule/index.md
+---
+# 每周推歌运行规则
+当前部分是==每周推歌==栏目的运行规则！
+
+本栏目遵从以下规则和运行方式运行
+
+---
+
+---
+url: /weeklyPickup/rule/operation/index.md
+---
+# 每周推歌·节目运行方式
+本分则旨在规范每周推歌节目的运行
+
+## 2.1 定义 {#2.1}
+
+### 2.1.1 在本分则中，除非上下文另有要求： {#2.1.1}
+
+* **收录**指本节目成员将相关曲目收录进入本节目的推荐歌单
+* **待投票**指将曲目加入本节目的待收录列表，但**不一定**收录
+* **虚拟歌手**指代歌声合成技术相关的音色数据库
+* **翻调**指代使用其他虚拟歌手重新制作**非本人原创曲目**的人声部分
+* **翻填**指代对原曲目的歌词进行修改或重新填词，或为原先无人声的曲目添加歌词
+* **废弃**指代将曲目移入废弃队列，废弃队列将永久无法进入待投票队列
+
+### 2.1.2 虚拟歌手中文曲定义 {#2.1.2}
+
+* **虚拟歌手中文曲**（或**中文Vocaloid曲目**， **中V曲目**, **中文虚拟歌手曲目**）指代**所有**使用歌声合成技术，以**中文或者中国境内的方言**主导，且虚拟歌手为主要演唱者的曲目（包括但不限于使用Vocaloid技术，Synthesizer V技术，UTAU技术）
+* **主要演唱者**要求：
+* * 1. 曲目时长的10%需要有人声演唱
+  * 2. 虚拟歌手演唱时长必须占有人声部分的50%及以上
+  * 3. 虚拟歌手人声必须作为歌曲的主导部分
+* **中文或者中国境内的方言主导**要求：
+* * 1. 歌词的中文或者中国境内的方言字数，且应当占歌词总字数的50%及以上
+
+## 2.2 人员构成 {#2.2}
+
+2.2.1 所有参与本周推歌的工作人员名单，都应在官网公布
+
+### 2.2.2 评审团 *（或评委团）* {#2.2.2}
+
+2.2.2.1 **评审团**成员有权**将歌曲加入待投票队列**，并决定歌曲是否**收录**
+
+2.2.2.2 **评审团**对于一首曲目进行一轮投票，采用少数服从多数制
+
+* 首轮投票决定是否在本周推荐该曲目，若反对票数大于赞同票数，则该曲目回到待推荐队列，并记作一次投票失败
+* 若反对票数等于支持票数，则该曲目回到待推荐队列，不记录投票失败
+* 若反对票数小于支持票数，则该曲目在本期推荐
+
+2.2.2.3 若**评审团**成员的曲目被**加入待投票队列**，则该成员和任一一位评审团成员需要退出投票
+
+2.2.2.4 对于被废弃的曲目，**评审团**需要给出废弃原因，并永久归档
+
+### 2.2.3 编辑团队 {#2.2.3}
+
+2.2.3.1 **编辑团队**的成员有权**将歌曲加入待投票队列**，且负责歌曲基本信息的初步标注
+
+2.2.3.2 **编辑团队**的成员负责用户**自我推荐**歌曲的初步审核
+
+### 2.2.4 视频团队 {#2.2.4}
+
+2.2.4.1 **视频团队**的成员负责视频相关的美术及视频剪辑
+
+## 2.3 板块设计 {#2.3}
+
+2.3.1 本节目分为四大板块，按照曲风分类，分别为流行板块，电子板块，摇滚板块，其他板块（板块排名不分先后）
+
+2.3.2 曲目的板块分类归属**由评审团决定**
+
+2.3.3 原则上每个板块最高收录5首曲目，若本周收录歌曲不足5首的，无需补全
+
+2.3.4 每周六的0点停止新曲目的收录投票，剩余未审核的待投票曲目将进入下一周的待投票队列
+
+2.3.5 在新曲目的收录投票截止前6小时（每周五18:00），若某板块的收录名额已满，且其他板块有剩余名额的，可以借用其他板块的剩余名额推荐超过限额的歌曲
+
+2.3.6 所有收录歌曲的展示时长应控制在20-30秒内
+
+2.3.7 每首收录歌曲应当展示如下信息：
+
+* 视频BV号及AV号
+* 歌曲的制作人员明细
+* 歌曲使用的虚拟歌手基本信息，包括引擎和其名称
+* 歌曲的详细子曲风
+* 推荐理由
+* 收录方式（自行推荐/编辑推荐）
+* 如果是评审团成员入围，则需要告知观众作者为评委团成员
+
+2.3.8 各板块曲目排名不分先后
+
+## 2.4 收录 {#2.4}
+
+### 2.4.1 重大失格行为 {#2.4.1}
+
+2.4.1.1 重大失格行为包含：
+
+* a) 在**编曲**流程中，使用**生成式AI程序进行编曲的**（包括但不限于：[Suno AI](https://suno.com/about)等）
+* b) 曲目中**任一**图片使用**生成式AI程序进行生图的**（包括但不限于：[novel AI](https://novelai.net/), [Stable Diffusion](https://stabledifffusion.com/zh)，[豆包AI](https://www.doubao.com/)），且**未著明使用AI生成图片**的
+* c) 曲目歌词**使用生成式AI进行作词**的（包括但不限于：[ChatGPT](https://chat.openai.com/), [百度文心一言](https://ai.baidu.com/product/text2image), [Deepseek](https://deepseek.com)）
+* d) 曲目涉及抄袭的他人作品的（无论他人作品类型）
+* e) 其他我们认为不当的行为
+
+2.4.4.2 本节目拒绝收录所有涉及重大失格行为的曲目，并将涉及重大失格行为的作者加入黑名单
+
+2.4.4.3 黑名单内的作者参与制作的曲目将直接被废弃，无法进入待审核队列
+
+2.4.4.4 若作者被加入黑名单，且对处理结果有异议的，可以向我们发起申诉
+
+### 2.4.2 一般收录规则及流程 {#2.4.2}
+
+2.4.2.1 本节目遵循下列收录规则
+
+* a) 本节目仅收录发布在[Bilibili](https://bilibili.com)的曲目
+* b) 由于本节目精力有限，暂时不收录翻调及翻填作品
+* c) 收录的曲目必须是中文虚拟歌手曲目
+* d) 已经被往期节目收录的曲目，将不会被以后的节目收录
+* e) 已经废弃的曲目，将不会被以后的节目收录
+* f) 稿件的[Bilibili](https://bilibili.com)发布时间在三个月前的作品无法进入待推荐队列
+* g) 原则上不收录时长少于90s的曲目，但是如果接近90s且曲目结构完整且足够优秀，可以收录
+
+### 2.4.3 收录勘误规则 {#2.4.3}
+
+2.4.3.1 对于不符合上述收录规则却被收录并推荐的曲目，节目组应当在所有发布位置显著处发布勘误内容
+
+2.4.3.2 对于违反2.4.1.2和2.4.2.1的曲目，应当移除推荐
+
+2.4.3.3 对于出现**重大失格行为**的曲目，应当在下一期视频公布其涉及的失格行为，并移除推荐
+
+## 2.5 待推荐队列运行机制 {#2.5}
+
+2.5.1 待推荐队列采用“先进先出”原则，进入待推荐队列时间靠前的曲目将最先进入投票
+
+2.5.2 每首曲目进入待推荐队列时，投票失败次数设置为0
+
+2.5.3 若曲目在评审团投票环节投票不通过，则失败次数增加1，并回到待推荐队列末尾
+
+2.5.4 若曲目失败次数达到3次（失败次数==3），则曲目被废弃
+
+## 2.6 自行推荐 {#2.6}
+
+由于编辑无法收集所有曲目，本节目允许用户自我推荐
+
+2.6.1 自行推荐曲目必须由此曲目的创作团队中的任一人推荐
+
+2.6.2 自行推荐曲目必须符合收录范围规则
+
+2.6.3 自行推荐时应当包含如下信息：
+
+* 歌曲基本信息（BV号）
+* 歌曲的制作人员明细
+* 歌曲使用的虚拟歌手基本信息，包括引擎和其名称
+* 歌曲的曲风，若允许，需要详细到子曲风
+
+2.6.4 自行推荐的曲目将交由编辑团队进行初审，由编辑团队任一成员决定是否进入待审核队列
+
+2.6.5 可以通过官网提供自行推荐渠道，或联系编辑团队的任一成员进行自我推荐
+
+## 2.7 运行流程 {#2.7}
+
+2.7.1 本节目遵循以下流程运行
+
+```mermaid
+---
+title: VSCPiuckUp收录流程
+---
+
+flowchart LR
+
+    subgraph 曲目数据库
+        OnProcessQueue@{ shape: cyl, label: "待审核队列" }
+    end
+    %% 全局节点
+    subgraph 本期收录结束
+        Refuse([本期不推荐]) ---> Drop
+        Suggest([本期推荐]) ---> Drop
+        Drop([曲目废弃])
+    end
+
+    subgraph 审核团队
+        OnProcessQueue ---> |取出曲目| CheckTimes{失败次数是否大于等于3？}
+        CheckTimes ---> |是| Refuse
+        CheckTimes ---> |否| Vote{评委团进行投票，是否多数同意本期推荐本曲目？}
+            Vote ---> |支持票>反对票| Suggest
+            Vote ---> |支持票=反对票| RefuseSuggest[本期不推荐，并回到待审核队列末尾] ---> OnProcessQueue
+            Vote ---> |支持票<反对票| FailedTimeAddOne[失败次数+1] ---> RefuseSuggest 
+    end
+
+    subgraph 编辑团队
+        FindNewMusic([发现新曲目])  ---> CheckIsLegal{是否满足收录条件？}
+        CheckIsLegal ---> |是| WriteSuggestMessage[填写曲目信息]
+            %% 曲目信息可收录，进入审核团队工作流程
+            WriteSuggestMessage ---> |加入待审核队列，并记失败次数为0| OnProcessQueue
+        CheckIsLegal ---> |否| Refuse
+    end
+```
+
+2.7.2 **收录歌单**将主要公布在[Bilibili](https://bilibili.com)，并适当的在其他平台进行推广
+
+---
+
+---
+url: /weeklyPickup/rule/total/index.md
+---
+# 每周推歌·总则
+## 1.1 目的与范围 {#1.1}
+
+* 本规则旨在规定**中文虚拟歌手Pickup周刊**团队的**每周推歌**节目的运行规则
+* 本规则适用于参与**每周推歌**节目的所有成员
+
+## 1.2 定义与解释 {#1.2}
+
+在本规则中，除非上下文另有要求：
+
+* **本节目**指代**中文虚拟歌手Pickup周刊**团队的**每周推歌**节目
+* **我们**（或**节目策划方**,**本团队**）指代**中文虚拟歌手Pickup周刊**团队
+* **你**（或**用户**）指代所有非节目策划方的人员
+* **参与本节目**指用户进行了自我推荐，或用户为本团队成员
+* **自我推荐**是用户自发的向本节目推荐作品的行为
+
+若上下文没有另行说明，本规则均使用北京时间（UTC+8）
+
+## 1.3 人称解释 {#1.3}
+
+本规则中：
+
+* 使用单数人称（如"你"）时包含复数意义；
+* 使用男性代词时同等适用于所有性别；
+
+## 1.4 规则体系说明 {#1.4}
+
+1.4.1. 本规则体系包含：
+
+* **总则**（当前文档）：基础定义与原则
+* **分则**：包含本节目的所有运行流程时应当遵从的规则
+
+## 1.5 节目策划方权利 {#1.5}
+
+* 我们保留解释及修改本规则的权利
+* 我们有权随时更改规则，但更改需要在官网进行公布
+* 我们有权根据违规情节采取拒绝收录，拒绝自我推荐，拒绝访问相关服务等措施
+
+## 1.6 效力与变更 {#1.6}
+
+* 本规则自发布之日起生效
+* 参与本节目则视作同意此运行规则
+
+---
+
+---
+url: /weeklyPickup/softwareEula/index.md
+---
+# 每周推歌·周边软件用户协议
+本分则为每周推歌节目周边软件的最终用户许可协议（EULA），开始使用本节目的周边软件，则视作同意本用户许可协议
+
+## 3.1 定义与解释 {#3.1}
+
+在本协议中，除非上下文另有要求：
+
+* **周边设施**（或**配套设施**）包含【名字未定】QQ机器人服务，投稿通道，VSCPickup Open API以及本节目官网
+* **机器人**指代【名字未定】QQ机器人服务
+* **VSCPickup Open API**为本节目提供的开放API
+* **你**（或**用户**）指代访问并使用周边设施的个人或团队
+* **滥用**指代在短时间内大量请求VSCPickupAPI，对VSCPickup进行任何方式的网络攻击，等我们认为不当的行为
+
+## 3.2 允许做的事 {#3.2}
+
+3.2.1 我们允许你在需要的情况下，适当的使用我们的周边设施
+
+3.2.2 我们允许将机器人拉入其他QQ群聊
+
+3.2.3 我们允许使用脚本从官网或VSCPickup Open API获取数据和信息，但**不允许滥用**
+
+## 3.3 不允许做的事 {#3.3}
+
+3.3.2 我们不允许对我们的周边设施进行**压力测试，网络攻击，发送大量请求等滥用行为**
+
+3.3.2 我们不允许**一次性对机器人发送大量请求**
+
+3.3.3 对于VSCPickup Open API获取到的全部数据，应当按照我们的知识共享协议使用
+
+3.3.4 我们不允许**将我们的周边设施用于商业用途**
+
+## 3.4 你需要做的事 {#3.4}
+
+3.4.1 如果你的服务使用了我们的配套设施，则需要在项目的任意位置注明使用了我们的配套设施，可以选择在README，项目简介或者相关代码的注释
+
+## 3.5 权利与更变 {#3.5}
+
+3.5.1 我们有权随时更改最终用户许可协定
+
+3.5.2 我们保留解释本协定的权利
+
+3.5.3 在必要情况下（包括但不限于：你的行为对我们的配套设施运行造成困扰等行为），我们有权随时禁止你访问我们的配套设施且无需给出任何理由，包括但不限于封禁IP，拒绝回复等
+
+3.5.4 本规则自发布之日起生效
