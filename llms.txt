@@ -1,0 +1,22 @@
+# VSCPickup
+
+> VSCPickup Official WebsiteThis file contains links to all documentation sections.
+
+## Table of Contents
+
+- [关于我们](/aboutus/index.md)
+- [团队成员](/aboutus/group/index.md)
+- [编辑团队](/aboutus/group/editor/index.md)
+- [评委团](/aboutus/group/jury/index.md)
+- [技术支持团队](/aboutus/group/tech/index.md)
+- [ 其他信息](/aboutus/other/index.md)
+- [中文虚拟歌手PickUP周刊#3](/article/1757609495/index.md)
+- [中文虚拟歌手PickUP周刊#1](/article/c9u27heu/index.md)
+- [中文虚拟歌手PickUP周刊#2](/article/fp5hdxae/index.md)
+- [？](/vof/index.md)
+- [每周推歌](/weeklyPickup/index.md)
+- [往期节目](/weeklyPickup/previousEpisodes/index.md)
+- [每周推歌运行规则](/weeklyPickup/rule/index.md)
+- [每周推歌·节目运行方式](/weeklyPickup/rule/operation/index.md)
+- [每周推歌·总则](/weeklyPickup/rule/total/index.md)
+- [每周推歌·周边软件用户协议](/weeklyPickup/softwareEula/index.md)
